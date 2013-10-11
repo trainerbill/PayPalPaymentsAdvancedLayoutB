@@ -1,2 +1,2 @@
-PayPalPaymentsAdvancedLayoutB
+PayPalPaymentsAdvancedLayoutC
 =============================
